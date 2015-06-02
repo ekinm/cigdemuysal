@@ -1,0 +1,121 @@
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\blog_deneme.dll.config
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\blog_deneme.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\blog_deneme.pdb
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Antlr3.Runtime.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\EntityFramework.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\EntityFramework.SqlServer.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Newtonsoft.Json.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Owin.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.Helpers.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.Mvc.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.Optimization.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.Razor.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.WebPages.Deployment.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.WebPages.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.WebPages.Razor.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\WebGrease.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.Helpers.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.Mvc.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.Optimization.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.Razor.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.WebPages.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.WebPages.Deployment.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\System.Web.WebPages.Razor.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Antlr3.Runtime.pdb
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Newtonsoft.Json.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\EntityFramework.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\EntityFramework.SqlServer.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\obj\Debug\blog_deneme.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\obj\Debug\blog_deneme.pdb
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\CKFinder.dll
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\bin\CKFinder.pdb
+c:\users\ekin\documents\visual studio 2013\Projects\blog_deneme\blog_deneme\obj\Debug\blog_deneme.csprojResolveAssemblyReference.cache
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme\blog_deneme\bin\PagedList.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme\blog_deneme\bin\PagedList.Mvc.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme\blog_deneme\bin\PagedList.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme\blog_deneme\bin\PagedList.Mvc.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\blog_deneme.dll.config
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\blog_deneme.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\blog_deneme.pdb
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Antlr3.Runtime.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\CKFinder.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\EntityFramework.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\EntityFramework.SqlServer.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Newtonsoft.Json.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Owin.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\PagedList.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\PagedList.Mvc.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.Helpers.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.Mvc.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.Optimization.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.Razor.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.WebPages.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\WebGrease.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\CKFinder.pdb
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\PagedList.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\PagedList.Mvc.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.Helpers.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.Mvc.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.Optimization.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.Razor.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.WebPages.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Antlr3.Runtime.pdb
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Newtonsoft.Json.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\EntityFramework.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\EntityFramework.SqlServer.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\obj\Debug\blog_deneme.dll
+C:\Users\Ekin\Documents\Visual Studio 2013\Projects\blog_deneme - Kopya\blog_deneme\obj\Debug\blog_deneme.pdb

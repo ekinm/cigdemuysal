@@ -1,0 +1,81 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+
+
+@model IPagedList<blog_deneme.Veritabani.Makale>
+
+@{
+    ViewBag.Title = "Articles";
+}
+
+
+    <h2>Index</h2>
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <p>
+@using (Html.BeginForm("Index", "Home", FormMethod.Get))
+{
+    <b>Find By:</b> @Html.RadioButton("FindBy","Baslik", true) <text>Baslik </text>
+    @Html.RadioButton("FindBy", "Icerik", true) <text>Icerik </text> <br/>
+    @Html.TextBox("Find")<input type="submit"value=" Find"/>
+    
+}
+
+    </p>
+   
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Baslik)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Ozet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Icerik)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Tarih)
+            </th>
+            <th></th>
+        </tr>
+
+@if (Model.Count() == 0)
+{
+    <tr>
+        <td colspan="4"> No rows match Find criteria </td>
+    </tr>
+
+}
+else
+{
+    foreach (var item in Model)
+ { 
+
+            <tr>
+                <td>
+                    <a href="/Makales/Details/@item.id">@item.Baslik</a>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ozet)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Icerik)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tarih)
+                </td>
+
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.id })
+                </td>
+            </tr>
+        } }
+
+    </table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new{ page, FindBy=Request.QueryString["FindBy"], Find = Request.QueryString["Find"]} ),
+    new PagedListRenderOptions() { Display= PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation= true })
